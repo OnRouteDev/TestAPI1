@@ -7,7 +7,11 @@
 //
 
 #import <UIKit/UIKit.h>
+# import "BannerLib.h"
 
 @interface onRouteDigitalViewController : UIViewController
+{
+BannerLib *x;
+}
 
 @end
